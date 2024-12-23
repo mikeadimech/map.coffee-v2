@@ -1,6 +1,6 @@
 import { AppSidebar } from "@/components/app-sidebar"
 import { Button } from "@/components/ui/button"
-import { ThemeToggle } from "@/components/ThemeToggle"
+import { ThemeToggle } from "@/components/theme-toggle"
 import { Share } from 'lucide-react'
 import {
   SidebarInset,
